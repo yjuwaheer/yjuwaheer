@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yjuwaheer&label=Profile%20views&color=0e75b6&style=flat" alt="yjuwaheer" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.yudish.me/](https://www.yudish.me/)
+- 👨‍💻 Selected projects are available at [https://www.yudish.me/](https://www.yudish.me/)
 
 - 💬 Ask me about **JavaScript & Python**
 
