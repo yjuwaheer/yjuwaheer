@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yudish</h1>
 <h3 align="center">A passionate Full Stack Developer from Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yjuwaheer&label=Profile%20views&color=0e75b6&style=flat" alt="yjuwaheer" /> </p>
-
 - 👨‍💻 Selected projects are available at [https://www.yudish.me/](https://www.yudish.me/)
 
 - 💬 Ask me about **JavaScript & Python**
@@ -12,11 +10,6 @@
 - 📄 Know about my experiences [https://www.yudish.me/documents/ResumeYudishJuwaheer.pdf](https://www.yudish.me/documents/ResumeYudishJuwaheer.pdf)
 
 - ⚡ Fun fact **I love Car Sim games 🚗**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yudishjuwaheer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="yudishjuwaheer" height="35" width="35" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -44,3 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yudishjuwaheer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="yudishjuwaheer" height="35" width="35" /></a>
+</p>
