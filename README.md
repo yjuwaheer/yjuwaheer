@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.yudish.me/documents/ResumeYudishJuwaheer.pdf](https://www.yudish.me/documents/ResumeYudishJuwaheer.pdf)
 
-- ⚡ Fun fact **I love**
+- ⚡ Fun fact **I love Car Sim games 🚗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
