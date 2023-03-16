@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer, always seeking knowledge</h3>
 
 - 👨‍💻 Selected projects are available at [https://www.yudish.me/](https://www.yudish.me/)
-- 💬 Ask me about **JavaScript & Python**
+- 💬 Ask me about **JavaScript, Python, Java, and C#**
 - 🌱 I’m currently learning **AWS**
 - 📫 How to reach me **yjuwaheer@mun.ca**
 - 📄 Know about my experiences [https://www.yudish.me/documents/ResumeYudishJuwaheer.pdf](https://www.yudish.me/documents/ResumeYudishJuwaheer.pdf)
