@@ -4,7 +4,7 @@
 - 👨‍💻 Selected projects are available at [https://www.yudish.me/](https://www.yudish.me/)
 - 💬 Ask me about **JavaScript, Python, Java, and C#**
 - 🌱 I’m currently learning **AWS**
-- 📫 How to reach me **yjuwaheer@mun.ca**
+- 📫 Reach me at **yjuwaheer@mun.ca**
 - 📄 Know about my experiences [https://www.yudish.me/documents/ResumeYudishJuwaheer.pdf](https://www.yudish.me/documents/ResumeYudishJuwaheer.pdf)
 - ⚡ Fun fact **I love Car Sim games 🚗**
 
