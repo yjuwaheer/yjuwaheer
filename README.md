@@ -5,7 +5,7 @@
 - 💬 Ask me about **JavaScript, Python, Java, and C#**
 - 🌱 I’m currently learning **AWS**
 - 📫 Reach me at **yjuwaheer@mun.ca**
-- 📄 Know about my experiences [https://www.yudish.me/documents/Resume.pdf](https://www.yudish.me/documents/Resume.pdf)
+- 📄 Know about my experiences [Resume](https://www.yudish.me/documents/Resume.pdf)
 - ⚡ Fun fact **I love Car Sim games 🚗**
 
 <h3 align="left">Languages, Frameworks, Libraries & Tools:</h3>
