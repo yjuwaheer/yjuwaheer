@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yudish</h1>
 <h3 align="center">A passionate Full Stack Developer, always seeking knowledge</h3>
 
-- 👨‍💻 Selected projects are available at [https://www.yudish.me/](https://www.yudish.me/)
+- 👨‍💻 Selected projects are available at [www.yudish.me](https://www.yudish.me/)
 - 💬 Ask me about **JavaScript, Python, Java, and C#**
 - 🌱 I’m currently learning **AWS**
 - 📫 Reach me at **yjuwaheer@mun.ca**
-- 📄 Know about my experiences [Resume](https://www.yudish.me/documents/Resume.pdf)
+- 📄 Know about my experiences in my [Resume](https://www.yudish.me/documents/Resume.pdf)
 - ⚡ Fun fact **I love Car Sim games 🚗**
 
 <h3 align="left">Languages, Frameworks, Libraries & Tools:</h3>
