@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yudish</h1>
-<h3 align="center">A passionate Full Stack Developer, always seeking knowledge</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 - 👨‍💻 Selected projects are available at **[www.yudish.me](https://www.yudish.me/)**
 - 💬 Ask me about **JavaScript, Python, Java, and C#**
