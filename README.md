@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **AWS**
 - 📫 Reach me at **yjuwaheer@mun.ca**
 - 📄 Know about my experiences **[here](https://www.yudish.me/documents/Resume.pdf)**
-- ⚡ Fun fact **I love Car Sim games 🚗**
+- ⚡ Fun fact **I love Car Simulator games 🚗**
 
 <h3 align="left">Languages, Frameworks, Libraries & Tools:</h3>
 <p align="left"> 
